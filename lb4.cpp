@@ -12,3 +12,11 @@ int main()
     secondDigit = static_cast<int>(number) % 10;
     cout << "Sum: " << firstDigit + secondDigit << "\nMultiply: " << firstDigit * secondDigit << endl;
 }
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana 
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana 
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana 
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana 
+//banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana banana
